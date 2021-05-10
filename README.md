@@ -6,7 +6,8 @@ Control System volume and brightness using hand gesture.
 
 (Note: Brightness change is not visible becasue of screen recorder can not detect brightness)
 
-https://user-images.githubusercontent.com/50626299/117569543-cdb22100-b0e3-11eb-9023-c5c3edb9c50e.mp4
+
+https://user-images.githubusercontent.com/50626299/117630495-de709e80-b198-11eb-8bbb-bf4b3e26a335.mp4
 
 
 ## Getting Started
