@@ -1,4 +1,4 @@
-# Volume and brightness controller s
+# Volume and brightness controller 
 Control System volume and brightness using hand gesture.
 
 
