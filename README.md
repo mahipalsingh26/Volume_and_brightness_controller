@@ -2,7 +2,7 @@
 Control System volume and brightness using hand gesture.
 
 
-##Demo
+## Demo
 
 (Note: Brightness change is not visible becasue of screen recorder can not detect brightness)
 
